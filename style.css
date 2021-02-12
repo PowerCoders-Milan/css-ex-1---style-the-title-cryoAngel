@@ -7,7 +7,7 @@
 h1{
     text-transform: capitalize;
     text-decoration: line-through;
-    text-shadow: 0px, 10px, 20px, #0a0a0a ;
+    text-shadow: 5px, 5px, 10px #0a0a0a ;
     letter-spacing: 16px;
     font-variant: 50px;
 } 
