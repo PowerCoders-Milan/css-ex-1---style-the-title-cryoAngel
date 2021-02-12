@@ -5,6 +5,8 @@
     background-color: beige;
 } 
 h1{
+    padding: 50%;
+    text-align: center;
     text-transform: capitalize;
     text-decoration: line-through;
     text-shadow: 5px, 5px, 10px #0a0a0a ;
